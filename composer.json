@@ -2,15 +2,15 @@
     "name": "nfq/php_intro_homework",
     "description": "PHP intro homework",
     "type": "project",
-	"stability": "stable",
+    "stability": "stable",
     "license": "MIT",
     "require": {
         "mathjax/mathjax": "^2.7"
     },
-	"require-dev": {
-		"phpunit/phpunit": "3.7.*"
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
     },
-	"autoload": {
-		"files": ["src/functions.php", "src/functions_strict.php"]
-	}
+    "autoload": {
+        "files": ["src/functions.php", "src/functions_strict.php"]
+    }
 }
