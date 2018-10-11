@@ -3,6 +3,13 @@
     "description": "PHP intro homework",
     "type": "project",
     "license": "MIT",
+     "authors": [
+        {
+            "name": "Tadas Kundelis",
+            "email": "kundelist@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
     "require": {
         "mathjax/mathjax": "^2.7"
     },
