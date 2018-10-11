@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e2e10e3d806c8ac3fc77a49b1bdca8ff",
+    "content-hash": "0d7ad927ab776ee4463111052b3e3162",
     "packages": [
         {
             "name": "mathjax/mathjax",
