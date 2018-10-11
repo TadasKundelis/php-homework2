@@ -3,7 +3,7 @@
     "description": "PHP intro homework",
     "type": "project",
     "license": "MIT",
-     "authors": [
+    "authors": [
         {
             "name": "Tadas Kundelis",
             "email": "kundelist@gmail.com"
